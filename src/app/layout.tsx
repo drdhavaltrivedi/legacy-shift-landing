@@ -5,7 +5,7 @@ import ClientSideEffects from "@/components/ClientSideEffects";
 export const metadata: Metadata = {
   metadataBase: new URL("https://legacyshift.dev"),
   title: "LegacyShift | AI-Powered Legacy Modernization",
-  description: "Ship 3\u00D7 faster on legacy codebases. We embed custom AI workflows into your existing team to reclaim engineering velocity without rewrites.",
+  description: "Ship 3× faster on legacy codebases. We embed custom AI workflows into your existing team to reclaim engineering velocity without rewrites.",
   keywords: "Legacy Modernization, AI Engineering, Software Velocity, Technical Debt, CI/CD AI, Team Augmentation",
   openGraph: {
     title: "LegacyShift | Reclaim Your Engineering Velocity",

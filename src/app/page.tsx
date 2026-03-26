@@ -194,7 +194,7 @@ export default function Home() {
               <div className="author-info">
                 <strong>Mark Thompson</strong>
                 <span>CTO, FinStream NYC</span>
-                <span className="location">\uD83C\uDDFA\uD83C\uDDF8 New York, USA</span>
+                <span className="location">🇺🇸 New York, USA</span>
               </div>
             </div>
             <p className="testimonial-quote">"Implementing LegacyShift's AI workflows saved our senior team over 15 hours a week. We were drowning in technical debt from our 10-year monolith; now we're shipping like a Day 1 startup."</p>
@@ -211,10 +211,10 @@ export default function Home() {
               <div className="author-info">
                 <strong>Elena Rodriguez</strong>
                 <span>Head of Engineering, LogiTech BCN</span>
-                <span className="location">\uD83C\uDDEA\uD83C\uDDF8 Barcelona, Spain</span>
+                <span className="location">🇪🇸 Barcelona, Spain</span>
               </div>
             </div>
-            <p className="testimonial-quote">"La integraci\u00F3n de IA en nuestra arquitectura heredada fue impecable. In just 4 weeks, our deployment frequency tripled. It's the most impactful engineering investment we've made this year."</p>
+            <p className="testimonial-quote">"La integración de IA en nuestra arquitectura heredada fue impecable. In just 4 weeks, our deployment frequency tripled. It's the most impactful engineering investment we've made this year."</p>
           </div>
         </div>
       </section>
@@ -225,7 +225,7 @@ export default function Home() {
         <p>Book a free 30-minute codebase audit. No commitments, just clarity.</p>
         <div className="cta-form">
           <a href={CAL_URL} target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ width: '100%', maxWidth: '320px', textDecoration: 'none' }}>
-            Book Free Audit Now \u2192
+            Book Free Audit Now →
           </a>
         </div>
       </section>
@@ -239,7 +239,7 @@ export default function Home() {
           <a href="#">LinkedIn</a>
           <a href="mailto:hello@legacyshift.dev">hello@legacyshift.dev</a>
         </div>
-        <div>\u00A9 2026 LegacyShift</div>
+        <div>© 2026 LegacyShift</div>
       </footer>
 
       {/* Theme Toggle */}

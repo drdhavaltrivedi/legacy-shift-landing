@@ -3,20 +3,25 @@ import "./globals.css";
 import ClientSideEffects from "@/components/ClientSideEffects";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://legacyshift.dev"),
+  metadataBase: new URL("https://impai.vercel.app"),
   title: "LegacyShift | AI-Powered Legacy Modernization",
-  description: "Ship 3× faster on legacy codebases. We embed custom AI workflows into your existing team to reclaim engineering velocity without rewrites.",
-  keywords: "Legacy Modernization, AI Engineering, Software Velocity, Technical Debt, CI/CD AI, Team Augmentation",
+  description: "Reclaim your engineering velocity. We embed custom AI workflows into legacy teams to ship 3× faster without rewrites.",
+  keywords: "Legacy Systems, AI Automation, Software Engineering, Technical Debt, Developer Productivity, Vercel, Next.js",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "LegacyShift | Reclaim Your Engineering Velocity",
-    description: "Your legacy codebase isn't the problem. Your tools are. We ship AI workflows that make your team 3× faster.",
-    url: "https://legacyshift.dev",
+    description: "Your legacy codebase isn't the problem. Your tools are. Ship 3× faster with our AI blueprints.",
+    url: "https://impai.vercel.app",
     siteName: "LegacyShift",
     images: [
       {
-        url: "/images/cinematic_team_v2_1774513460699.png",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
+        alt: "LegacyShift - AI-Powered Legacy Modernization",
       },
     ],
     locale: "en_US",
@@ -24,9 +29,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "LegacyShift | Reclaim Your Engineering Velocity",
+    title: "LegacyShift | AI-Powered Legacy Modernization",
     description: "Ship 3× faster on legacy codebases without rewriting a single line.",
-    images: ["/images/cinematic_team_v2_1774513460699.png"],
+    images: ["/og-image.png"],
   },
   robots: {
     index: true,

@@ -1,0 +1,25 @@
+# LegacyShift | AI-Powered Legacy Modernization
+
+> Ship 3× faster on legacy codebases without rewrites.
+
+## Core Services
+- AI-Powered Codebase Audits
+- Custom AI Integration Blueprints
+- Guided Workflow Implementation
+- Cycle Time & Developer Satisfaction Optimization
+
+## The Process (4 Weeks)
+1. **Week 1: Codebase Deep Dive** - Mapping architecture and friction points.
+2. **Week 2: AI Integration Blueprint** - Custom strategy for embedding tools into CI/CD.
+3. **Week 3: Guided Implementation** - Live pair programming and real-time knowledge transfer.
+4. **Week 4: Measure & Optimize** - Data-driven fine-tuning ofPR throughput.
+
+## Technical Stats
+- 68% Reduction in boilerplate time.
+- 3.2× Faster PR turnaround.
+- 50% Faster onboarding for engineers.
+- 91% Developer satisfaction.
+
+## Contacts
+- hello@legacyshift.dev
+- [Book a Call](https://cal.com/vikas-singh-bril/free-consultation?overlayCalendar=true&layout=month_view)

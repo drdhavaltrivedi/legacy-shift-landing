@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LegacyShift | AI-Powered Legacy Modernization
 
-## Getting Started
+Welcome to the **LegacyShift** landing page project. This is a Next.js 15+ application optimized for engineering leaders looking to reclaim velocity in their legacy codebases.
 
-First, run the development server:
+## 🚀 Concept
+LegacyShift helps software teams embed custom AI workflows into their existing legacy environments. We skip the "rewrite" and focus on making your current team 3× faster through AI-driven CI/CD, review, and documentation paths.
 
+## 🛠️ Features
+- **Next.js 15 App Router**: High-performance streaming and metadata.
+- **Premium Interaction Design**: Magnetic buttons, custom cursors, and glowing timelines.
+- **AI Agent-Ready**: Includes `llms.txt` for robotic discovery and SEO optimization.
+- **Dark/Light Mode**: Full persistence with glassmorphic visuals.
+
+## 📦 Deployment
+This project is built to be deployed on **Vercel**. Every push to the `main` branch will trigger an automatic production build.
+
+## 🚦 Local Setup
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+MIT
